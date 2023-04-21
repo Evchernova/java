@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-21T21:44:50.992678Z</date>
+  <millis>1682113490992</millis>
+  <nanos>678000</nanos>
+  <sequence>0</sequence>
+  <logger>Sem2HW2.Sem2HW2</logger>
+  <level>INFO</level>
+  <class>Sem2HW2.Sem2HW2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат 7</message>
+</record>
+<record>
+  <date>2023-04-21T21:44:51.037037Z</date>
+  <millis>1682113491037</millis>
+  <nanos>37000</nanos>
+  <sequence>1</sequence>
+  <logger>Sem2HW2.Sem2HW2</logger>
+  <level>INFO</level>
+  <class>Sem2HW2.Sem2HW2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат 11</message>
+</record>
+<record>
+  <date>2023-04-21T21:44:51.037637Z</date>
+  <millis>1682113491037</millis>
+  <nanos>637000</nanos>
+  <sequence>2</sequence>
+  <logger>Sem2HW2.Sem2HW2</logger>
+  <level>INFO</level>
+  <class>Sem2HW2.Sem2HW2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат 14</message>
+</record>
+<record>
+  <date>2023-04-21T21:44:51.038121Z</date>
+  <millis>1682113491038</millis>
+  <nanos>121000</nanos>
+  <sequence>3</sequence>
+  <logger>Sem2HW2.Sem2HW2</logger>
+  <level>INFO</level>
+  <class>Sem2HW2.Sem2HW2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат 16</message>
+</record>
+<record>
+  <date>2023-04-21T21:44:51.038566Z</date>
+  <millis>1682113491038</millis>
+  <nanos>566000</nanos>
+  <sequence>4</sequence>
+  <logger>Sem2HW2.Sem2HW2</logger>
+  <level>INFO</level>
+  <class>Sem2HW2.Sem2HW2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат 20</message>
+</record>
+<record>
+  <date>2023-04-21T21:44:51.038979Z</date>
+  <millis>1682113491038</millis>
+  <nanos>979000</nanos>
+  <sequence>5</sequence>
+  <logger>Sem2HW2.Sem2HW2</logger>
+  <level>INFO</level>
+  <class>Sem2HW2.Sem2HW2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат 21</message>
+</record>
+</log>
