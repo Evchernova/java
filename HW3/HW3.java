@@ -26,6 +26,6 @@ public class HW3 {
               return;
         }
         //System.out.println("Результат: ");
-        System.out.printf("Результат: " + num1 + " " + znak + " " + num2 + " = " + result + " ");
+        System.out.printf("Результат: " + num1 + " " + znak + " " + num2 + " = " + result + "     ");
     }
 }
