@@ -27,10 +27,10 @@ public class Sem4HW {
                     list.removeLast();
                     System.out.println("Последняя введенная строка удалена из памяти.");
                 } else {
-                    System.out.println("Нет сохраненных строк для удаления.");
+                    System.out.println("Ошибка! Нет сохраненных строк для удаления.");
                 }
             } else if (input.equals("exit")) {
-              System.out.println("Выход из программы.");
+              System.out.println("Программа завершилась.");
               System.exit(0);
             } else {
                 list.addLast(input);
